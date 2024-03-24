@@ -174,10 +174,3 @@ Navigate to `public` folder and run below command to start serving on the localh
 ```console
 php -S localhost:5000
 ```
-
-## Authors
-
-- Ali Ahmadi
-- Max Base
-
-Copyright 2023, Max Base
