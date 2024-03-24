@@ -155,7 +155,7 @@ Note: This is just an example, and you may need to modify the routes and methods
 First step, You need to clone this repository from GitHub to your local environment:
 
 ```console
-git clone https://github.com/BaseMax/OnlineMarketplacePHP.git
+git clone https://github.com/maxter9595/OnlineMarketplacePHP.git
 ```
 
 Now you must run some command to install dependecies and create .env file:
